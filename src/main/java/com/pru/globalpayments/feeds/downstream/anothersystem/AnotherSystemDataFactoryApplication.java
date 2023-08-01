@@ -1,4 +1,4 @@
-package com.pru.globalpayments.feeds.downstream.anothersystem.AnotherSystemDataFactoryApplication;
+package com.pru.globalpayments.feeds.downstream.anothersystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
